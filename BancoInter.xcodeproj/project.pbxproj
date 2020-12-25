@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6405DE3025969C1F00855FCE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6405DE2F25969C1F00855FCE /* README.md */; };
 		647770EC259407DA00E45223 /* BancoInterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647770EB259407DA00E45223 /* BancoInterApp.swift */; };
 		647770EE259407DA00E45223 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647770ED259407DA00E45223 /* ContentView.swift */; };
 		647770F0259407DE00E45223 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647770EF259407DE00E45223 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6405DE2F25969C1F00855FCE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		647770E8259407DA00E45223 /* BancoInter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BancoInter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		647770EB259407DA00E45223 /* BancoInterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BancoInterApp.swift; sourceTree = "<group>"; };
 		647770ED259407DA00E45223 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		647770DF259407DA00E45223 = {
 			isa = PBXGroup;
 			children = (
+				6405DE2F25969C1F00855FCE /* README.md */,
 				647770EA259407DA00E45223 /* BancoInter */,
 				647770E9259407DA00E45223 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6405DE3025969C1F00855FCE /* README.md in Resources */,
 				647770F3259407DE00E45223 /* Preview Assets.xcassets in Resources */,
 				647770F0259407DE00E45223 /* Assets.xcassets in Resources */,
 			);
